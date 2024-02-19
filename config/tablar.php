@@ -154,7 +154,7 @@ return [
             'icon' => 'ti ti-user',
             'url' => 'customers'
         ],
-        [
+        /* [
             'text' => 'Support 1',
             'url' => '#',
             'icon' => 'ti ti-help',
@@ -166,7 +166,7 @@ return [
                     'icon' => 'ti ti-article',
                 ]
             ],
-        ],
+        ], */
 
         /* [
             'text' => 'Support 2',
